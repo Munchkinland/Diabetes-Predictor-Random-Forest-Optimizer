@@ -1,8 +1,8 @@
-#👩‍⚕️👨‍⚕️ Diabetes Prediction Random Forest Optimization
+# Diabetes Prediction Random Forest Optimization
 
 ![image](https://github.com/Munchkinland/Diabetes-Predictor-Random-Forest-Optimizer/assets/92251234/e1e072cb-4164-492d-b93d-214d6ec2d693)
 
-This project focuses on predicting diabetes using a Random Forest classifier, with a particular emphasis on optimizing the model parameters to enhance its performance. Diabetes is a chronic disease that affects millions of people worldwide, and the ability to predict the likelihood of its development is crucial for early intervention and effective treatment.
+👩‍⚕️👨‍⚕ This project focuses on predicting diabetes using a Random Forest classifier, with a particular emphasis on optimizing the model parameters to enhance its performance. Diabetes is a chronic disease that affects millions of people worldwide, and the ability to predict the likelihood of its development is crucial for early intervention and effective treatment.
 
 👩‍💻Project Objectives
 ✅Accurate Prediction: Develop a classification model that can accurately predict the probability of diabetes based on training and test datasets.
