@@ -22,7 +22,7 @@
 
 Feel free to explore the code and follow the provided instructions in the README for a step-by-step guide on running the project and understanding its outcomes.
 
-# Installation
+# Installation and execution
 Ensure you have Python installed. Use the following command to install the required dependencies:
 
 ```bash
